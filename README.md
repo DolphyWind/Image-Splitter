@@ -1,7 +1,7 @@
 # Image Splitter
 Image splitter for sprite animations.
 
-Let's say we have bunch of sprite in a single sprite like this:
+Let's say we have an image like this:
 
 ![Example Sprites](https://i.ibb.co/N3yRYdb/example-input.png)
 
