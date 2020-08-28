@@ -42,6 +42,7 @@ class Window(QtWidgets.QWidget):
         self.folderSelected = False
         self.setWindowTitle("Image Splitter")
         self.setGeometry(0, 0, self.windowSize[0], self.windowSize[1])
+        self.center()
         self.UI()
 
         self.show()
