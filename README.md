@@ -3,21 +3,21 @@ Image splitter for sprite animations.
 
 Let's say we have an image like this:
 
-![Example Sprites](https://i.ibb.co/N3yRYdb/example-input.png)
+![Example Sprites](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/example-input.png?raw=true)
 
 We've to split them equally to make animation.
 This python script does that.
 
 Here's example outputs:
 
-![Circle 0](https://i.ibb.co/N1DgZZk/Circle-0.png)![Circle 1](https://i.ibb.co/gT19BVs/Circle-1.png)![Circle 2](https://i.ibb.co/Qv88yRz/Circle-2.png)![Circle 3](https://i.ibb.co/CKnLCXL/Circle-3.png)![Circle 4](https://i.ibb.co/LN6Pmt6/Circle-4.png)![Circle 5](https://i.ibb.co/9NW8q62/Circle-5.png)![Circle 6](https://i.ibb.co/MsJxCR4/Circle-6.png)![Circle 7](https://i.ibb.co/nfWVSHL/Circle-7.png)
+![Circle 0](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle-0.png?raw=true)![Circle 1](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle-1.png?raw=true)![Circle 2](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle-2.png?raw=true)![Circle 3](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle-3.png?raw=true)![Circle 4](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle-4.png?raw=true)![Circle 5](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle-5.png?raw=true)![Circle 6](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle-6.png?raw=true)![Circle 7](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle-7.png?raw=true)
 
 You can get gif output too!
 
-![Circle Gif](https://i.ibb.co/px6TfKg/Circle.gif)
+![Circle Gif](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/Circle.gif?raw=true)
 
 In app screenshots:
 
-![Screenshot 1](https://i.ibb.co/g9wt01r/screenshot-1.png)
+![Screenshot 1](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/screenshot-1.png?raw=true)
 
-![Screenshot 2](https://i.ibb.co/r3JC1Zz/screenshot-2.png)
+![Screenshot 2](https://github.com/DolphyWind/Image-Splitter/Example_Images/tree/master/screenshot-2.png?raw=true)
